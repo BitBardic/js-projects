@@ -13,6 +13,12 @@
 body {
   font-family: 'Lato', sans-serif;
   margin: 0;
+  transition: transform 0.3s ease;
+}
+
+body.show-nav {
+  /* Width of nav */
+  transform: translateX(200px);
 }
 
 nav {
@@ -47,7 +53,7 @@ nav ul {
 
 nav ul li {
   border-bottom: 2px solid rgba(200, 200, 200, 0.1);
-  padding: 2px;
+  padding: 20px;
 }
 
 nav ul li:first-of-type {
@@ -72,8 +78,12 @@ header {
   text-align: center;
 }
 
-h1 {
+header h1 {
   margin: 0;
+}
+
+header p {
+  margin: 30px 0;
 }
 
 button,
@@ -119,6 +129,10 @@ button:focus {
   bottom: 0;
 }
 
+.modal-container.show-modal {
+  display: block;
+}
+
 .modal {
   background-color: #fff;
   border-radius: 5px;
@@ -127,13 +141,15 @@ button:focus {
   overflow: hidden;
   top: 50%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -51%);
   max-width: 100%;
   width: 400px;
+  animation-name: modalopen;
+  animation-duration: var(--modal-duration);
 }
 
 .modal-header {
-  background-color: var(--primary-color);
+  background: var(--primary-color);
   color: #fff;
   padding: 15px;
 }
@@ -162,9 +178,19 @@ button:focus {
 }
 
 .close-btn {
-    background: transparent;
-    font-size: 25px;
-    position: absolute;
-    top: 0;
-    right: 0;
+  background: transparent;
+  font-size: 25px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+@keyframes modalopen {
+  from {
+    opacity: 0.5;
+  }
+
+  to {
+    opacity: 1;
+  }
 }
