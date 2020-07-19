@@ -2,10 +2,18 @@
 
 [Projects Website](https://nasiriqbaluk.github.io/JS-Projects)
 
-### GREETR [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/GREETR/)
+1. ### GREETR [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/GREETR/)
 
-### FORM-VALIDATOR [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/FORM-VALIDATOR/)
+1. ### FORM-VALIDATOR [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/FORM-VALIDATOR/)
 
-### MOVIE-SEAT-BOOKING [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/MOVIE-SEAT-BOOKING/)
+1. ### MOVIE-SEAT-BOOKING [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/MOVIE-SEAT-BOOKING/)
 
-### CUSTOM-VIDEO-PLAYER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/CUSTOM-VIDEO-PLAYER/)
+1. ### CUSTOM-VIDEO-PLAYER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/CUSTOM-VIDEO-PLAYER/)
+
+1. ### DOM-ARRAY-METHODS [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/DOM-ARRAY-METHODS/)
+
+1. ### MODAL-MENU-SLIDER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/MODAL-MENU-SLIDER/)
+
+1. ### HANGMAN [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/HANGMAN/)
+
+1. ### MEAL-FINDER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/MEAL-FINDER/)
