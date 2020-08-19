@@ -18,6 +18,10 @@
 
 1. ### MEAL-FINDER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/MEAL-FINDER/)
 
+1. ### EXPENSE-TRACKER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/EXPENSE-TRACKER/)
+
+1. ### MUSIC-PLAYER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/MUSIC-PLAYER/)
+
 1. ### INFINITE-SCROLL-BLOG [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/INFINITE-SCROLL-BLOG/)
 
-1. ### EXPENSE-TRACKER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/EXPENSE-TRACKER/)
+
