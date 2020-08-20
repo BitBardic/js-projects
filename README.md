@@ -24,4 +24,6 @@
 
 1. ### INFINITE-SCROLL-BLOG [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/INFINITE-SCROLL-BLOG/)
 
+1. ### TYPING-GAME [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/TYPING-GAME/)
+
 
