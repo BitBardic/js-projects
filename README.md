@@ -26,4 +26,6 @@
 
 1. ### TYPING-GAME [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/TYPING-GAME/)
 
+1. ### SPEECH-TEXT-READER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/SPEECH-TEXT-READER/)
+
 
