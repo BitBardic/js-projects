@@ -28,4 +28,6 @@
 
 1. ### SPEECH-TEXT-READER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/SPEECH-TEXT-READER/)
 
+1. ### MEMORY-CARDS [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/MEMORY-CARDS/)
+
 
