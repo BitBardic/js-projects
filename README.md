@@ -30,4 +30,6 @@
 
 1. ### MEMORY-CARDS [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/MEMORY-CARDS/)
 
+1. ### LYRICS-SEARCH [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/LYRICS-SEARCH/)
+
 
