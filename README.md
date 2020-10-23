@@ -32,4 +32,4 @@
 
 1. ### LYRICS-SEARCH [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/LYRICS-SEARCH/)
 
-
+1. ### RELAXER-APP [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/RELAXER-APP/)
