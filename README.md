@@ -35,3 +35,5 @@
 1. ### RELAXER-APP [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/RELAXER-APP/)
 
 1. ### BREAKOUT-GAME [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/BREAKOUT-GAME/)
+
+1. ### NEW-YEAR-COUNTDOWN [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/NEW-YEAR-COUNTDOWN/)
