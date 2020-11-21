@@ -10,6 +10,8 @@
 
 1. ### CUSTOM-VIDEO-PLAYER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/CUSTOM-VIDEO-PLAYER/)
 
+1. ### EXCHANGE-RATE [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/EXCHANGE-RATE/)
+
 1. ### DOM-ARRAY-METHODS [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/DOM-ARRAY-METHODS/)
 
 1. ### MODAL-MENU-SLIDER [Live Demo](https://nasiriqbaluk.github.io/JS-Projects/MODAL-MENU-SLIDER/)
