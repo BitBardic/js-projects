@@ -45,3 +45,5 @@
 1. ### SPEAK-NUMBER-GUESS [Live Demo](https://nasiriqbaluk.github.io/js-projects/speak-number-guess/)
 
 1. ### EXPANDING-CARDS [Live Demo](https://nasiriqbaluk.github.io/js-projects/expanding-cards/)
+
+1. ### EXPANDING-CARDS [Live Demo](https://nasiriqbaluk.github.io/js-projects/expanding-cards/)
