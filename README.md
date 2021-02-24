@@ -11,7 +11,7 @@
 | 05  | [Exchange Rate](https://github.com/NasirIqbalUK/js-projects/tree/master/exchange-rate)               | [Live Demo](https://nasiriqbaluk.github.io/js-projects/exchange-rate/)        |
 | 06  | [Dom Array Methods](https://github.com/NasirIqbalUK/js-projects/tree/master/dom-array-methods)       | [Live Demo](https://nasiriqbaluk.github.io/js-projects/dom-array-methods/)    |
 | 07  | [Modal Menu Slider](https://github.com/NasirIqbalUK/js-projects/tree/master/modal-menu-slider)       | [Live Demo](https://nasiriqbaluk.github.io/js-projects/modal-menu-slider/)    |
-| 08  | [hangman](https://github.com/NasirIqbalUK/js-projects/tree/master/hangman)                           | [Live Demo](https://nasiriqbaluk.github.io/js-projects/hangman/)              |
+| 08  | [Hangman](https://github.com/NasirIqbalUK/js-projects/tree/master/hangman)                           | [Live Demo](https://nasiriqbaluk.github.io/js-projects/hangman/)              |
 | 09  | [Meal Finder](https://github.com/NasirIqbalUK/js-projects/tree/master/meal-finder)                   | [Live Demo](https://nasiriqbaluk.github.io/js-projects/meal-finder/)          |
 | 10  | [Expense Tracker](https://github.com/NasirIqbalUK/js-projects/tree/master/expense-tracker)           | [Live Demo](https://nasiriqbaluk.github.io/js-projects/expense-tracker/)      |
 | 11  | [Music Player](https://github.com/NasirIqbalUK/js-projects/tree/master/music-player)                 | [Live Demo](https://nasiriqbaluk.github.io/js-projects/music-player/)         |
@@ -26,3 +26,4 @@
 | 20  | [Sortable List](https://github.com/NasirIqbalUK/js-projects/tree/master/sortable-list)               | [Live Demo](https://nasiriqbaluk.github.io/js-projects/sortable-list/)        |
 | 21  | [Speak Number Guess](https://github.com/NasirIqbalUK/js-projects/tree/master/speak-number-guess)     | [Live Demo](https://nasiriqbaluk.github.io/js-projects/speak-number-guess/)   |
 | 22  | [Expanding Cards](https://github.com/NasirIqbalUK/js-projects/tree/master/expanding-cards)           | [Live Demo](https://nasiriqbaluk.github.io/js-projects/expanding-cards/)      |
+| 23  | [Progress Steps](https://github.com/NasirIqbalUK/js-projects/tree/master/progress-steps)             | [Live Demo](https://nasiriqbaluk.github.io/js-projects/progress-steps/)       |
